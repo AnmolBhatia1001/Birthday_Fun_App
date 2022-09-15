@@ -45,3 +45,26 @@ button{
     font-weight: 500;
     color: white;
 }
+
+#connect-text{
+    font-size: 1.25em;
+}
+
+a{
+    text-decoration: none;
+}
+
+#contact{
+    /* position: absolute; */
+    /* bottom: 5px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5em;
+    margin: 30px 0px;
+}
+
+.connect-div{
+    display: flex;
+    gap: 1em;
+}
